@@ -1,2 +1,3 @@
 # codes4life-stats
-introduction to github
+introduction to GitHub
+update
