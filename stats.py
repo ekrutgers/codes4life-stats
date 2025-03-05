@@ -1,3 +1,5 @@
+import numpy
+
 def calculate_mean(data):
     if not data:
         return 0
